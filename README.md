@@ -1,7 +1,3 @@
-# **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
-
-## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
-
 # SmartHotel360 Registration - Sample Reference Application
 
 The front desk at [SmartHotel360](https://github.com/Microsoft/SmartHotel360) use the following application to register customers throught the check-in and check-out process. In the application we have the customer information, the operation to execute.
